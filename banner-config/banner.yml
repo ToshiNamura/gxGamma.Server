@@ -1,0 +1,56 @@
+# This is the main configuration file for Banner.
+# As you can see, there's tons to configure. Some options may impact gameplay, so use
+# with caution, and make sure you know what each option does before configuring.
+
+anvilfix:
+  maximumrepaircost: 40
+  enchantment_fix: false
+  max_enchantment_level: 32767
+entity:
+  nospawn: []
+  spawnForChunk: true
+  clear:
+    item:
+      enable: false
+      whitelist: []
+      msg: '[Server] Cleaned up %size% drops'
+      time: 1800
+proxies:
+  velocity:
+    enabled: false
+    secret: ''
+event:
+  NoRaining: false
+mixin:
+  clipcontext: false
+networkmanager:
+  debug: false
+  intercept: []
+world-settings:
+  default:
+    verbose: false
+    game-mechanics:
+      disable-end-credits: false
+    entities:
+      behavior:
+        disableChestCatDetection: false
+        piglinsGuardChests: true
+        zombiesTargetTurtleEggs: true
+banner:
+  check_libraries: true
+  debug: false
+  lang: ru_RU
+  show_logo: false
+  check_update: false
+  libraries_downloadsource: MOHIST
+compat:
+  symlink_world: true
+  skipOtherWorldPreparing: false
+threadpriority:
+  server_thread: 8
+motd:
+  enable: true
+  firstline: <RAINBOW1>gxGamma</RAINBOW>
+  secondline: ''
+WatchDogTimeOut: 120
+config-version: 12

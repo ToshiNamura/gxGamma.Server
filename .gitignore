@@ -11,9 +11,20 @@
 !/README.md
 
 # server
+!/banner-config/
 !/mods/
+!/plugins/
+!/bukkit.yml
+!/commands.yml
+!/help.yml
+!/permissions.yml
+!/server.properties
+!/spigot.yml
 !/fabric-server-launch.jar
 !/server.jar
+
+# bStats
+/plugins/bStats/config.yml
 
 # libraries
 !/libraries/
