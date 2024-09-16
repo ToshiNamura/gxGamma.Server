@@ -1,0 +1,8 @@
+## Standart gitignore configuration file.
+## Copyright (c) 2024, Toshi Namura
+
+### Visual Studio db
+/.vs
+
+### .gitattributes
+/.gitattributes
