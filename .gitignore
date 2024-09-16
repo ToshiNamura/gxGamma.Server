@@ -1,8 +1,99 @@
 ## Standart gitignore configuration file.
 ## Copyright (c) 2024, Toshi Namura
 
-### Visual Studio db
-/.vs
+# 
+/*
 
-### .gitattributes
-/.gitattributes
+# git
+!/.git/
+!/.gitignore
+!/LICENSE.txt
+!/README.md
+
+# server
+!/mods/
+!/fabric-server-launch.jar
+!/server.jar
+
+# libraries
+!/libraries/
+/libraries/*
+
+!/libraries/net/
+/libraries/net/*
+
+!/libraries/net/fabricmc/
+/libraries/net/fabricmc/*
+
+!/libraries/net/fabricmc/fabric-loader/
+/libraries/net/fabricmc/fabric-loader/*
+
+!/libraries/net/fabricmc/fabric-loader/0.16.2/
+/libraries/net/fabricmc/fabric-loader/0.16.2/*
+
+!/libraries/net/fabricmc/fabric-loader/0.16.2/fabric-loader-0.16.2.jar
+
+!/libraries/net/fabricmc/intermediary/
+/libraries/net/fabricmc/intermediary/*
+
+!/libraries/net/fabricmc/intermediary/1.20.1/
+/libraries/net/fabricmc/intermediary/1.20.1/*
+
+!/libraries/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar
+
+!/libraries/net/fabricmc/sponge-mixin/
+/libraries/net/fabricmc/sponge-mixin/*
+
+!/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/
+/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/*
+
+!/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar
+
+!/libraries/org/
+/libraries/org/*
+
+!/libraries/org/ow2/
+/libraries/org/ow2/*
+
+!/libraries/org/ow2/asm/
+/libraries/org/ow2/asm/*
+
+!/libraries/org/ow2/asm/asm/
+/libraries/org/ow2/asm/asm/*
+
+!/libraries/org/ow2/asm/asm/9.6/
+/libraries/org/ow2/asm/asm/9.6/*
+
+!/libraries/org/ow2/asm/asm/9.6/asm-9.6.jar
+
+!/libraries/org/ow2/asm/asm-analysis/
+/libraries/org/ow2/asm/asm-analysis/*
+
+!/libraries/org/ow2/asm/asm-analysis/9.6/
+/libraries/org/ow2/asm/asm-analysis/9.6/*
+
+!/libraries/org/ow2/asm/asm-analysis/9.6/asm-analysis-9.6.jar
+
+!/libraries/org/ow2/asm/asm-commons/
+/libraries/org/ow2/asm/asm-commons/*
+
+!/libraries/org/ow2/asm/asm-commons/9.6/
+/libraries/org/ow2/asm/asm-commons/9.6/*
+
+!/libraries/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar
+
+!/libraries/org/ow2/asm/asm-tree/
+/libraries/org/ow2/asm/asm-tree/*
+
+!/libraries/org/ow2/asm/asm-tree/9.6/
+/libraries/org/ow2/asm/asm-tree/9.6/*
+
+!/libraries/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar
+
+!/libraries/org/ow2/asm/asm-util/
+/libraries/org/ow2/asm/asm-util/*
+
+!/libraries/org/ow2/asm/asm-util/9.6/
+/libraries/org/ow2/asm/asm-util/9.6/*
+
+!/libraries/org/ow2/asm/asm-util/9.6/asm-util-9.6.jar
