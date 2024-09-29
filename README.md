@@ -95,4 +95,5 @@
 | Rechiseled                    | 1.1.6   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/rechiseled/files/5286340)                         | [GitHub](https://github.com/SuperMartijn642/Rechiseled)                            |
 | Connected Glass               | 1.1.12  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/connected-glass/files/5657171)                    | [GitHub](https://github.com/SuperMartijn642/ConnectedGlass)                        |
 | Another Furniture             | 3.0.1   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/another-furniture/files/4815126)                  | [GitHub](https://github.com/starfish-studios/AnotherFurniture)                     |
+| Create Fabric                 | 0.5.1.f | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-fabric/files/5245234)                      | [GitHub](https://github.com/Fabricators-of-Create/Create)                          |
 </details>
