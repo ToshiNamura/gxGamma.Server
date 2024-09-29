@@ -16,6 +16,7 @@
 | BetterMessages           | 3.3.2   | [Modrinth](https://modrinth.com/plugin/bettermessages)               | [GitHub](https://github.com/JustDoom/Better-Messages)            |
 | CoreProtect              | 22.4    | [Modrinth](https://modrinth.com/plugin/coreprotect)                  | [GitHub](https://github.com/PlayPro/CoreProtect)                 |
 | LuckPerms                | 5.4.141 | [LuckPerms.net](https://luckperms.net/)                              | [GitHub](https://github.com/LuckPerms/LuckPerms)                 |
+| LuckPrefix               | 1.2.3   | [Modrinth](https://modrinth.com/plugin/luckprefix)                   | [GitHub](https://github.com/ezTxmMC/LuckPrefix)                  |
 
 <details>
 <summary>Modifications</summary>
