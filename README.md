@@ -22,4 +22,5 @@
 | SuperMartijn642's Core Lib   | 1.1.17a | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib/files/5668908)   | [GitHub](https://github.com/SuperMartijn642/SuperMartijn642sCoreLib)   |
 | SuperMartijn642's Config Lib | 1.1.8a  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib/files/4785838) | [GitHub](https://github.com/SuperMartijn642/SuperMartijn642sConfigLib) |
 | Trinkets                     | 3.7.2   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/trinkets/files/5173501)                    | [GitHub](https://github.com/emilyploszaj/trinkets)                     |
+| Fusion                       | 1.1.1   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures/files/5129312)   | [GitHub](https://github.com/SuperMartijn642/Fusion)                    |
 </details>
