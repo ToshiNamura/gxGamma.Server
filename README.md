@@ -1,4 +1,4 @@
-# gxGamma
+﻿# gxGamma
 
 ## Server Core:
 | Name             | Version | Web-Site                                                                  | Source                                              |
