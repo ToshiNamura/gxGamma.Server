@@ -41,6 +41,7 @@
 !/plugins/Vanish.jar
 !/plugins/VoidTeleporter-1.1.0.jar
 !/plugins/worldedit-bukkit-7.3.1.jar
+!/plugins/worldguard-bukkit-7.0.9-dist.jar
 
 # libraries
 !/libraries/
