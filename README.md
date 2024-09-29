@@ -81,4 +81,5 @@
 | Industrial Revolution         | 1.16.7  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/industrial-revolution/files/5254377)              | [GitHub](https://github.com/GabrielOlvH/Industrial-Revolution)                     |
 | Farmer's Delight Refabricated | 2.1.6   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/farmers-delight-refabricated/files/5684645)       | [GitHub](https://github.com/MehVahdJukaar/FarmersDelightRefabricated)              |
 | Expanded Delight              | 0.3.2   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/expanded-delight/files/5708081)                   | [GitHub](https://github.com/ianm1647/expandeddelight)                              |
+| Ocean's Delight               | 1.0.2   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/oceans-delight/files/5230028)                     | No Source                                                                          |
 </details>
