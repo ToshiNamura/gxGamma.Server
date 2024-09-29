@@ -15,6 +15,7 @@
 | AuthMe                   | 5.6.0   | [Modrinth](https://modrinth.com/plugin/authmerereloaded)             | [GitHub](https://github.com/HaHaWTH/AuthMeReReloaded)            |
 | BetterMessages           | 3.3.2   | [Modrinth](https://modrinth.com/plugin/bettermessages)               | [GitHub](https://github.com/JustDoom/Better-Messages)            |
 | CoreProtect              | 22.4    | [Modrinth](https://modrinth.com/plugin/coreprotect)                  | [GitHub](https://github.com/PlayPro/CoreProtect)                 |
+| LuckPerms                | 5.4.141 | [LuckPerms.net](https://luckperms.net/)                              | [GitHub](https://github.com/LuckPerms/LuckPerms)                 |
 
 <details>
 <summary>Modifications</summary>
