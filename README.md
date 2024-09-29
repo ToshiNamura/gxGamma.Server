@@ -92,4 +92,5 @@
 | Brewin' And Chewin            | 3.0.6   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/brewin-and-chewin-fabric/files/5467339)           | No Source                                                                          |
 | Ube's Delight                 | 0.2.0   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ubes-delight/files/5696215)                       | [GitHub](https://github.com/ChefMooon/ubes-delight)                                |
 | Applied Energistics 2         | 15.2.12 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2/files/5588163)              | [GitHub](https://github.com/AppliedEnergistics/Applied-Energistics-2)              |
+| Rechiseled                    | 1.1.6   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/rechiseled/files/5286340)                         | [GitHub](https://github.com/SuperMartijn642/Rechiseled)                            |
 </details>
