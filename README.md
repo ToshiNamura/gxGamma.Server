@@ -108,4 +108,9 @@
 | Create: Structures            | 0.1.1   | [Modrinth](https://modrinth.com/datapack/create-structures/version/0.1.1+mod)                               | [GitHub](https://github.com/FusionSwarly/Create-Structures)                        |
 | Create: Extended Cogwheels    | 2.1.1   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-extended-cogwheels-fabric/files/5229919)   | [GitHub](https://github.com/Rabbitminers/Extended-Cogwheels)                       |
 | Create Enchantment Industry   | 0.5.1   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry-fabric/files/5170120) | [GitHub](https://github.com/DragonsPlusMinecraft/CreateEnchantmentIndustry-Fabric) |
+
+## World Gen
+| Name              | Version | Download                                                                              | Source                                                   |
+| :---------------- | :-----: | :-----------------------------------------------------------------------------------: | :------------------------------------------------------: |
+| BetterEnd         | 4.0.11  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/betterend/files/4971487)    | [GitHub](https://github.com/quiqueck/BetterEnd)          |
 </details>
