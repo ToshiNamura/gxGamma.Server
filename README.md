@@ -104,4 +104,5 @@
 | Create: Design n' Decor       | 0.4.0b  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-design-n-decor/files/5596516)              | [GitHub](https://github.com/DrMango14/Create-Design-n-Decor)                       |
 | Create Deco Fabric            | 2.0.2   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-deco-fabric/files/5293979)                 | [GitHub](https://github.com/talrey/CreateDeco)                                     |
 | Create: Framed                | 1.4.6   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-framed/files/5616316)                      | [GitHub](https://github.com/DakotaPride/create-framed)                             |
+| Create: Dreams & Desires      | 0.2c    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-dreams-desires/files/5303207)              | [GitHub](https://github.com/LopyLuna/Create-Dreams-and-Desires)                    |
 </details>
