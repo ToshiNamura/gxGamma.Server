@@ -90,4 +90,5 @@
 | Farmer's Knives               | 3.2     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/farmers-knives/files/5281259)                     | [GitHub](https://github.com/ianm1647/farmersknives)                                |
 | Nether's Delight              | 4.1.1   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/nethers-delight-refabricated/files/5336735)       | [GitHub](https://github.com/DragonsPlusMinecraft/NethersDelightRefabricated)       |
 | Brewin' And Chewin            | 3.0.6   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/brewin-and-chewin-fabric/files/5467339)           | No Source                                                                          |
+| Ube's Delight                 | 0.2.0   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ubes-delight/files/5696215)                       | [GitHub](https://github.com/ChefMooon/ubes-delight)                                |
 </details>
