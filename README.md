@@ -22,6 +22,7 @@
 | Multiverse-NetherPortals | 4.2.3   | [Modrinth](https://modrinth.com/plugin/multiverse-netherportals)     | [GitHub](https://github.com/Multiverse/Multiverse-NetherPortals) |
 | Multiverse-Portals       | 4.2.3   | [Modrinth](https://modrinth.com/plugin/multiverse-portals)           | [GitHub](https://github.com/Multiverse/Multiverse-Portals)       |
 | PlaceholderAPI           | 2.11.6  | [Spigot](https://www.spigotmc.org/resources/placeholderapi.6245/)    | [GitHub](https://github.com/PlaceholderAPI/PlaceholderAPI)       |
+| ProtocolLib              | 5.2.0   | [Spigot](https://www.spigotmc.org/resources/protocollib.1997/)       | [GitHub](https://github.com/dmulloy2/ProtocolLib/)               |
 
 <details>
 <summary>Modifications</summary>

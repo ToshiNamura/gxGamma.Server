@@ -35,6 +35,7 @@
 !/plugins/multiverse-netherportals-4.2.3.jar
 !/plugins/multiverse-portals-4.2.3.jar
 !/plugins/PlaceholderAPI-2.11.6.jar
+!/plugins/ProtocolLib.jar
 
 # libraries
 !/libraries/
