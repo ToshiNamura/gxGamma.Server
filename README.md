@@ -13,6 +13,7 @@
 | Name                     | Version | Download                                                             | Source                                                           |
 | :----------------------- | :-----: | :------------------------------------------------------------------: | :--------------------------------------------------------------: |
 | AuthMe                   | 5.6.0   | [Modrinth](https://modrinth.com/plugin/authmerereloaded)             | [GitHub](https://github.com/HaHaWTH/AuthMeReReloaded)            |
+| BetterMessages           | 3.3.2   | [Modrinth](https://modrinth.com/plugin/bettermessages)               | [GitHub](https://github.com/JustDoom/Better-Messages)            |
 
 <details>
 <summary>Modifications</summary>

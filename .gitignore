@@ -26,6 +26,7 @@
 # plugins
 /plugins/*
 !/plugins/AuthMe-5.6.0.jar
+!/plugins/BetterMessages-3.3.2.jar
 
 # libraries
 !/libraries/
