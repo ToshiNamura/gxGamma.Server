@@ -35,4 +35,5 @@
 | AttributeFix    | 21.0.4  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/attributefix/files/4911083)           | [GitHub](https://github.com/Darkhax-Minecraft/AttributeFix)      |
 | Packet Fixer    | 1.4.2   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/packet-fixer/files/5416165)           | [GitHub](https://github.com/TonimatasDEV/PacketFixer)            |
 | Max Health Fix  | 12.0.3  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/max-health-fix/files/5378285)         | [GitHub](https://github.com/Darkhax-Minecraft/Max-Health-Fix)    |
+| Debugify        | 2.0     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/debugify/files/4632961)               | [GitHub](https://github.com/isXander/Debugify)                   |
 </details>
