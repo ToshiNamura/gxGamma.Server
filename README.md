@@ -87,4 +87,5 @@
 | Pineapple Delight             | 1.0.12  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/pineapple-delight/files/5767190)                  | [GitHub](https://github.com/AmarokIce/PineappleDelight)                            |
 | Farmers Structures            | 1.0.0   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/farmers-structures/files/5666029)                 | No Source                                                                          |
 | End's Delight                 | 2.1     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ends-delight/files/5567428)                       | [GitHub](https://github.com/FoggyHillside/End-s-Delight)                           |
+| Farmer's Knives               | 3.2     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/farmers-knives/files/5281259)                     | [GitHub](https://github.com/ianm1647/farmersknives)                                |
 </details>
