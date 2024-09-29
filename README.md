@@ -37,4 +37,5 @@
 | Max Health Fix  | 12.0.3  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/max-health-fix/files/5378285)         | [GitHub](https://github.com/Darkhax-Minecraft/Max-Health-Fix)    |
 | Debugify        | 2.0     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/debugify/files/4632961)               | [GitHub](https://github.com/isXander/Debugify)                   |
 | NetherPortalFix | 13.0.1  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/netherportalfix-fabric/files/4939732) | [GitHub](https://github.com/TwelveIterationMods/NetherPortalFix) |
+| Connectivity    | 5.8     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/connectivity/files/5728629)           | [GitHub](https://github.com/someaddons/connectivity)             |
 </details>
