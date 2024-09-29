@@ -53,4 +53,5 @@
 | Ksyxis               | 1.3.2   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ksyxis/files/5419927)                            | [GitHub](https://github.com/VidTu/Ksyxis)                   |
 | Client Crafting      | 1.8     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/client-crafting/files/5097011)                   | [GitHub](https://github.com/someaddons/clientcrafting)      |
 | Noisium              | 2.3.0   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/noisium/files/5650500)                           | [GitHub](https://github.com/Steveplays28/noisium)           |
+| Recipe Essentials    | 3.6     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/recipe-essentials-forge-fabric/files/5581358)    | [GitHub](https://github.com/someaddons/recipeessentials)    |
 </details>
