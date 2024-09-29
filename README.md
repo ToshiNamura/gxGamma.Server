@@ -97,4 +97,5 @@
 | Another Furniture             | 3.0.1   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/another-furniture/files/4815126)                  | [GitHub](https://github.com/starfish-studios/AnotherFurniture)                     |
 | Create Fabric                 | 0.5.1.f | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-fabric/files/5245234)                      | [GitHub](https://github.com/Fabricators-of-Create/Create)                          |
 | Create Crafts & Additions     | 1.2.4   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/createaddition/files/5460454)                     | [GitHub](https://github.com/mrh0/createaddition)                                   |
+| Create: Steam 'n' Rails       | 1.6.4   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails/files/5331298)               | [GitHub](https://github.com/Layers-of-Railways/Railway)                            |
 </details>
