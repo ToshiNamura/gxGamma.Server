@@ -77,4 +77,5 @@
 | :---------------------------- | :-----: | :---------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
 | Botania                       | 446     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/botania-fabric/files/5594996)                     | [GitHub](https://github.com/VazkiiMods/Botania)                                    |
 | Botany Pots                   | 13.0.39 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/botany-pots/files/5727507)                        | [GitHub](https://github.com/Darkhax-Minecraft/BotanyPots)                          |
+| Botany Trees                  | 9.0.17  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/botany-trees/files/5727445)                       | [GitHub](https://github.com/Darkhax-Minecraft/BotanyTrees)                         |
 </details>
