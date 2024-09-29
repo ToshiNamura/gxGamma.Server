@@ -101,4 +101,5 @@
 | Create: Bells & Whistles      | 0.4.5   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/bellsandwhistles/files/4894378)                   | [GitHub](https://github.com/aesefficio/BellsAndWhistlesMod)                        |
 | Create: Estrogen              | 4.2.10  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/estrogen/files/5538073)                           | [GitHub](https://github.com/MayaqqDev/Estrogen)                                    |
 | Create: Interiors             | 0.5.6   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/interiors/files/5253013)                          | [GitHub](https://github.com/aesefficio/CreateInteriorsMod)                         |
+| Create: Design n' Decor       | 0.4.0b  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-design-n-decor/files/5596516)              | [GitHub](https://github.com/DrMango14/Create-Design-n-Decor)                       |
 </details>
