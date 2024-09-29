@@ -1,46 +1,26 @@
 ﻿# gxGamma
 
-	Command Line:
+__Start.bat:__
 ```
 chcp 65001
 java -Xms1024M -jar -Dfile.encoding=UTF-8 fabric-server-launch.jar --nogui --universe worlds
 ```
 
-## Server Core:
+## Sources
+<details> <summary>Server Core</summary>
+
 | Name             | Version | Web-Site                                                                  | Source                                              |
 | ---------------- | ------- | ------------------------------------------------------------------------- | --------------------------------------------------- |
 | Minecraft Server | 1.20.1  | [minecraft.net](https://www.minecraft.net/ru-ru/download/server)          | N/A                                                 |
 | Fabric Loader    | 0.16.2  | [fabricmc.net](https://fabricmc.net/)                                     | [GitHub](https://github.com/FabricMC/fabric-loader) |
 | Fabric API       | 0.92.2  | [curseforge.com](https://www.curseforge.com/minecraft/mc-mods/fabric-api) | [GitHub](https://github.com/FabricMC/fabric)        |
 | MohistMc Banner  | 722     | [mohistmc.com](https://mohistmc.com/software/banner)                      | [GitHub](https://github.com/MohistMC/Banner)        |
+</details>
 
 <!-- | Name | Version | [CurseForge]() | [GitHub]() | -->
-## Plugins
-| Name                     | Version | Download                                                             | Source                                                           |
-| :----------------------- | :-----: | :------------------------------------------------------------------: | :--------------------------------------------------------------: |
-| AuthMe                   | 5.6.0   | [Modrinth](https://modrinth.com/plugin/authmerereloaded)             | [GitHub](https://github.com/HaHaWTH/AuthMeReReloaded)            |
-| BetterMessages           | 3.3.2   | [Modrinth](https://modrinth.com/plugin/bettermessages)               | [GitHub](https://github.com/JustDoom/Better-Messages)            |
-| CoreProtect              | 22.4    | [Modrinth](https://modrinth.com/plugin/coreprotect)                  | [GitHub](https://github.com/PlayPro/CoreProtect)                 |
-| LuckPerms                | 5.4.141 | [LuckPerms.net](https://luckperms.net/)                              | [GitHub](https://github.com/LuckPerms/LuckPerms)                 |
-| LuckPrefix               | 1.2.3   | [Modrinth](https://modrinth.com/plugin/luckprefix)                   | [GitHub](https://github.com/ezTxmMC/LuckPrefix)                  |
-| Multiverse-Core          | 4.3.12  | [Modrinth](https://modrinth.com/plugin/multiverse-core)              | [GitHub](https://github.com/Multiverse/Multiverse-Core)          |
-| Multiverse-Inventories   | 4.2.6   | [Modrinth](https://modrinth.com/plugin/multiverse-inventories)       | [GitHub](https://github.com/Multiverse/Multiverse-Inventories)   |
-| Multiverse-NetherPortals | 4.2.3   | [Modrinth](https://modrinth.com/plugin/multiverse-netherportals)     | [GitHub](https://github.com/Multiverse/Multiverse-NetherPortals) |
-| Multiverse-Portals       | 4.2.3   | [Modrinth](https://modrinth.com/plugin/multiverse-portals)           | [GitHub](https://github.com/Multiverse/Multiverse-Portals)       |
-| PlaceholderAPI           | 2.11.6  | [Spigot](https://www.spigotmc.org/resources/placeholderapi.6245/)    | [GitHub](https://github.com/PlaceholderAPI/PlaceholderAPI)       |
-| ProtocolLib              | 5.2.0   | [Spigot](https://www.spigotmc.org/resources/protocollib.1997/)       | [GitHub](https://github.com/dmulloy2/ProtocolLib/)               |
-| StayPut                  | 2.0.0   | [Spigot](https://www.spigotmc.org/resources/stayput-remixed.69564/)  | [GitHub](https://github.com/pmdevita/StayPut/tree/2.0.0)         |
-| TAB                      | 4.1.8   | [Modrinth](https://modrinth.com/plugin/tab-was-taken)                | [GitHub](https://github.com/NEZNAMY/TAB)                         |
-| Vanish                   | 4.0     | [Modrinth](https://modrinth.com/plugin/provanish)                    | No Source                                                        |
-| Void Teleporter          | 1.1.0   | [Spigot](https://www.spigotmc.org/resources/void-teleporter.105243/) | No Source                                                        |
-| WorldEdit                | 7.3.1   | [Modrinth](https://modrinth.com/plugin/worldedit)                    | [GitHub](https://github.com/EngineHub/WorldEdit/)                |
-| WorldGuard               | 7.0.9   | [Modrinth](https://modrinth.com/plugin/worldguard)                   | [GitHub](https://github.com/EngineHub/WorldGuard)                |
+<details> <summary>Modifications</summary>
+<details> <summary>Library</summary>
 
-<details>
-<summary>Modifications</summary>
-
-<!-- | Name | Version | [CurseForge]() | [GitHub]() | -->
-## Library
 | Name                         | Version | Download                                                                                             | Source                                                                 |
 | :--------------------------- | :-----: | :--------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------: |
 | Cupboard                     | 2.7     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cupboard/files/5470034)                    | [GitHub](https://github.com/someaddons/cupboard)                       |
@@ -56,8 +36,9 @@ java -Xms1024M -jar -Dfile.encoding=UTF-8 fabric-server-launch.jar --nogui --uni
 | Botarium                     | 2.3.4   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/botarium/files/5486071)                    | [GitHub](https://github.com/terrarium-earth/Common-Storage-Lib)        |
 | Resourceful Lib              | 2.1.29  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/resourceful-lib/files/5659872)             | [GitHub](https://github.com/Team-Resourceful/ResourcefulLib)           |
 | Bookshelf                    | 20.2.13 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/bookshelf/files/5423988)                   | [GitHub](https://github.com/Darkhax-Minecraft/Bookshelf)               |
+</details>
+<details> <summary>Bug fix</summary>
 
-## Bug fix
 | Name            | Version | Download                                                                                        | Source                                                           |
 | :-------------- | :-----: | :---------------------------------------------------------------------------------------------: | :--------------------------------------------------------------: |
 | ModernFix       | 5.19.4  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/modernfix/files/5676012/)             | [GitHub](https://github.com/embeddedt/ModernFix)                 |
@@ -69,8 +50,9 @@ java -Xms1024M -jar -Dfile.encoding=UTF-8 fabric-server-launch.jar --nogui --uni
 | Connectivity    | 5.8     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/connectivity/files/5728629)           | [GitHub](https://github.com/someaddons/connectivity)             |
 | AntiGhost       | 1.1.5   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/antighost/files/4613757)              | [GitHub](https://github.com/gbl/AntiGhost)                       |
 | Memory Leak Fix | 1.1.5   | [Modrinth](https://modrinth.com/mod/memoryleakfix/version/v1.1.5)                               | [GitHub](https://github.com/fxmorin/memoryLeakFix)               |
+</details>
+<details> <summary>Optimization</summary>
 
-## Optimization
 | Name                 | Version | Download                                                                                                   | Source                                                      |
 | :------------------- | :-----: | :--------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------: |
 | Smooth Chunk Save    | 3.6     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save/files/5138126)                 | [GitHub](https://github.com/someaddons/smoothchunksave)     |
@@ -84,8 +66,9 @@ java -Xms1024M -jar -Dfile.encoding=UTF-8 fabric-server-launch.jar --nogui --uni
 | Noisium              | 2.3.0   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/noisium/files/5650500)                           | [GitHub](https://github.com/Steveplays28/noisium)           |
 | Recipe Essentials    | 3.6     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/recipe-essentials-forge-fabric/files/5581358)    | [GitHub](https://github.com/someaddons/recipeessentials)    |
 | LazyDFU              | 0.1.3   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lazydfu/files/3821870)                           | [GitHub](https://github.com/astei/lazydfu)                  |
+</details>
+<details> <summary>Utility</summary>
 
-## Utility
 | Name                     | Version    | Download                                                                                     | Source                                                      |
 | :----------------------- | :--------: | :------------------------------------------------------------------------------------------: | :---------------------------------------------------------: |
 | Spark                    | 1.10.53    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/spark/files/4738953)               | [GitHub](https://github.com/lucko/spark)                    |
@@ -98,8 +81,9 @@ java -Xms1024M -jar -Dfile.encoding=UTF-8 fabric-server-launch.jar --nogui --uni
 | Just Enough Items        | 15.16.2.73 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jei/files/5683453)                 | [GitHub](https://github.com/mezz/JustEnoughItems)           |
 | Jade                     | 11.11.0    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jade/files/5666690)                | [GitHub](https://github.com/Snownee/Jade)                   |
 | Jade Addons              | 5.3.1      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jade-addons-fabric/files/5592658)  | [GitHub](https://github.com/Snownee/JadeAddonsFabric)       |
+</details>
+<details> <summary>Game Mechanics</summary>
 
-## Game Mechanics
 | Name                          | Version | Download                                                                                                    | Source                                                                             |
 | :---------------------------- | :-----: | :---------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
 | Botania                       | 446     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/botania-fabric/files/5594996)                     | [GitHub](https://github.com/VazkiiMods/Botania)                                    |
@@ -135,11 +119,37 @@ java -Xms1024M -jar -Dfile.encoding=UTF-8 fabric-server-launch.jar --nogui --uni
 | Create: Structures            | 0.1.1   | [Modrinth](https://modrinth.com/datapack/create-structures/version/0.1.1+mod)                               | [GitHub](https://github.com/FusionSwarly/Create-Structures)                        |
 | Create: Extended Cogwheels    | 2.1.1   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-extended-cogwheels-fabric/files/5229919)   | [GitHub](https://github.com/Rabbitminers/Extended-Cogwheels)                       |
 | Create Enchantment Industry   | 0.5.1   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry-fabric/files/5170120) | [GitHub](https://github.com/DragonsPlusMinecraft/CreateEnchantmentIndustry-Fabric) |
+</details>
+<details> <summary>World Gen</summary>
 
-## World Gen
 | Name              | Version | Download                                                                              | Source                                                   |
 | :---------------- | :-----: | :-----------------------------------------------------------------------------------: | :------------------------------------------------------: |
 | BetterEnd         | 4.0.11  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/betterend/files/4971487)    | [GitHub](https://github.com/quiqueck/BetterEnd)          |
 | BetterNether      | 9.0.10  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/betternether/files/4971478) | [GitHub](https://github.com/quiqueck/BetterNether)       |
 | Deeper and Darker | 1.3.2.1 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/deeperdarker/files/5725442) | [GitHub](https://github.com/KyaniteMods/DeeperAndDarker) |
+</details>
+</details>
+
+<details> <summary>Plugins</summary>
+
+<!-- | Name | Version | [CurseForge]() | [GitHub]() | -->
+| Name                     | Version | Download                                                             | Source                                                           |
+| :----------------------- | :-----: | :------------------------------------------------------------------: | :--------------------------------------------------------------: |
+| AuthMe                   | 5.6.0   | [Modrinth](https://modrinth.com/plugin/authmerereloaded)             | [GitHub](https://github.com/HaHaWTH/AuthMeReReloaded)            |
+| BetterMessages           | 3.3.2   | [Modrinth](https://modrinth.com/plugin/bettermessages)               | [GitHub](https://github.com/JustDoom/Better-Messages)            |
+| CoreProtect              | 22.4    | [Modrinth](https://modrinth.com/plugin/coreprotect)                  | [GitHub](https://github.com/PlayPro/CoreProtect)                 |
+| LuckPerms                | 5.4.141 | [LuckPerms.net](https://luckperms.net/)                              | [GitHub](https://github.com/LuckPerms/LuckPerms)                 |
+| LuckPrefix               | 1.2.3   | [Modrinth](https://modrinth.com/plugin/luckprefix)                   | [GitHub](https://github.com/ezTxmMC/LuckPrefix)                  |
+| Multiverse-Core          | 4.3.12  | [Modrinth](https://modrinth.com/plugin/multiverse-core)              | [GitHub](https://github.com/Multiverse/Multiverse-Core)          |
+| Multiverse-Inventories   | 4.2.6   | [Modrinth](https://modrinth.com/plugin/multiverse-inventories)       | [GitHub](https://github.com/Multiverse/Multiverse-Inventories)   |
+| Multiverse-NetherPortals | 4.2.3   | [Modrinth](https://modrinth.com/plugin/multiverse-netherportals)     | [GitHub](https://github.com/Multiverse/Multiverse-NetherPortals) |
+| Multiverse-Portals       | 4.2.3   | [Modrinth](https://modrinth.com/plugin/multiverse-portals)           | [GitHub](https://github.com/Multiverse/Multiverse-Portals)       |
+| PlaceholderAPI           | 2.11.6  | [Spigot](https://www.spigotmc.org/resources/placeholderapi.6245/)    | [GitHub](https://github.com/PlaceholderAPI/PlaceholderAPI)       |
+| ProtocolLib              | 5.2.0   | [Spigot](https://www.spigotmc.org/resources/protocollib.1997/)       | [GitHub](https://github.com/dmulloy2/ProtocolLib/)               |
+| StayPut                  | 2.0.0   | [Spigot](https://www.spigotmc.org/resources/stayput-remixed.69564/)  | [GitHub](https://github.com/pmdevita/StayPut/tree/2.0.0)         |
+| TAB                      | 4.1.8   | [Modrinth](https://modrinth.com/plugin/tab-was-taken)                | [GitHub](https://github.com/NEZNAMY/TAB)                         |
+| Vanish                   | 4.0     | [Modrinth](https://modrinth.com/plugin/provanish)                    | No Source                                                        |
+| Void Teleporter          | 1.1.0   | [Spigot](https://www.spigotmc.org/resources/void-teleporter.105243/) | No Source                                                        |
+| WorldEdit                | 7.3.1   | [Modrinth](https://modrinth.com/plugin/worldedit)                    | [GitHub](https://github.com/EngineHub/WorldEdit/)                |
+| WorldGuard               | 7.0.9   | [Modrinth](https://modrinth.com/plugin/worldguard)                   | [GitHub](https://github.com/EngineHub/WorldGuard)                |
 </details>
