@@ -25,4 +25,5 @@
 | Fusion                       | 1.1.1   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures/files/5129312)   | [GitHub](https://github.com/SuperMartijn642/Fusion)                    |
 | BCLib                        | 3.0.14  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/bclib/files/4971470)                       | [GitHub](https://github.com/quiqueck/BCLib)                            |
 | oωo                          | 0.11.2  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/owo-lib/files/4749199)                     | [GitHub](https://github.com/wisp-forest/owo-lib)                       |
+| Botarium                     | 2.3.4   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/botarium/files/5486071)                    | [GitHub](https://github.com/terrarium-earth/Common-Storage-Lib)        |
 </details>
