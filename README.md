@@ -1,5 +1,11 @@
 ﻿# gxGamma
 
+	Command Line:
+```
+chcp 65001
+java -Xms1024M -jar -Dfile.encoding=UTF-8 fabric-server-launch.jar --nogui --universe worlds
+```
+
 ## Server Core:
 | Name             | Version | Web-Site                                                                  | Source                                              |
 | ---------------- | ------- | ------------------------------------------------------------------------- | --------------------------------------------------- |
