@@ -71,4 +71,9 @@
 | Just Enough Items        | 15.16.2.73 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jei/files/5683453)                 | [GitHub](https://github.com/mezz/JustEnoughItems)           |
 | Jade                     | 11.11.0    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jade/files/5666690)                | [GitHub](https://github.com/Snownee/Jade)                   |
 | Jade Addons              | 5.3.1      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jade-addons-fabric/files/5592658)  | [GitHub](https://github.com/Snownee/JadeAddonsFabric)       |
+
+## Game Mechanics
+| Name                          | Version | Download                                                                                                    | Source                                                                             |
+| :---------------------------- | :-----: | :---------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
+| Botania                       | 446     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/botania-fabric/files/5594996)                     | [GitHub](https://github.com/VazkiiMods/Botania)                                    |
 </details>
