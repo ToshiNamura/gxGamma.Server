@@ -23,6 +23,7 @@
 | Multiverse-Portals       | 4.2.3   | [Modrinth](https://modrinth.com/plugin/multiverse-portals)           | [GitHub](https://github.com/Multiverse/Multiverse-Portals)       |
 | PlaceholderAPI           | 2.11.6  | [Spigot](https://www.spigotmc.org/resources/placeholderapi.6245/)    | [GitHub](https://github.com/PlaceholderAPI/PlaceholderAPI)       |
 | ProtocolLib              | 5.2.0   | [Spigot](https://www.spigotmc.org/resources/protocollib.1997/)       | [GitHub](https://github.com/dmulloy2/ProtocolLib/)               |
+| StayPut                  | 2.0.0   | [Spigot](https://www.spigotmc.org/resources/stayput-remixed.69564/)  | [GitHub](https://github.com/pmdevita/StayPut/tree/2.0.0)         |
 
 <details>
 <summary>Modifications</summary>
