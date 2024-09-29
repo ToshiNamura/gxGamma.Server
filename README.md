@@ -68,4 +68,5 @@
 | Chunky                   | 1.3.146    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator/files/5320021) | [GitHub](https://github.com/pop4959/Chunky)                 |
 | Chunky Border            | 1.1.53     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chunky-border/files/4787015)       | [GitHub](https://github.com/pop4959/ChunkyBorder)           |
 | LuckPerms                | 5.4.102    | [Modrinth](https://modrinth.com/mod/luckperms/version/v5.4.102-fabric)                       | [GitHub](https://github.com/LuckPerms/LuckPerms)            |
+| Just Enough Items        | 15.16.2.73 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jei/files/5683453)                 | [GitHub](https://github.com/mezz/JustEnoughItems)           |
 </details>
