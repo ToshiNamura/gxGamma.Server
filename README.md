@@ -32,4 +32,5 @@
 | Name            | Version | Download                                                                                        | Source                                                           |
 | :-------------- | :-----: | :---------------------------------------------------------------------------------------------: | :--------------------------------------------------------------: |
 | ModernFix       | 5.19.4  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/modernfix/files/5676012/)             | [GitHub](https://github.com/embeddedt/ModernFix)                 |
+| AttributeFix    | 21.0.4  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/attributefix/files/4911083)           | [GitHub](https://github.com/Darkhax-Minecraft/AttributeFix)      |
 </details>
