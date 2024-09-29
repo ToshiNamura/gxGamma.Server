@@ -27,6 +27,7 @@
 | TAB                      | 4.1.8   | [Modrinth](https://modrinth.com/plugin/tab-was-taken)                | [GitHub](https://github.com/NEZNAMY/TAB)                         |
 | Vanish                   | 4.0     | [Modrinth](https://modrinth.com/plugin/provanish)                    | No Source                                                        |
 | Void Teleporter          | 1.1.0   | [Spigot](https://www.spigotmc.org/resources/void-teleporter.105243/) | No Source                                                        |
+| WorldEdit                | 7.3.1   | [Modrinth](https://modrinth.com/plugin/worldedit)                    | [GitHub](https://github.com/EngineHub/WorldEdit/)                |
 
 <details>
 <summary>Modifications</summary>
