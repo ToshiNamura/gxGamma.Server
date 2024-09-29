@@ -105,4 +105,5 @@
 | Create Deco Fabric            | 2.0.2   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-deco-fabric/files/5293979)                 | [GitHub](https://github.com/talrey/CreateDeco)                                     |
 | Create: Framed                | 1.4.6   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-framed/files/5616316)                      | [GitHub](https://github.com/DakotaPride/create-framed)                             |
 | Create: Dreams & Desires      | 0.2c    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-dreams-desires/files/5303207)              | [GitHub](https://github.com/LopyLuna/Create-Dreams-and-Desires)                    |
+| Create: Structures            | 0.1.1   | [Modrinth](https://modrinth.com/datapack/create-structures/version/0.1.1+mod)                               | [GitHub](https://github.com/FusionSwarly/Create-Structures)                        |
 </details>
