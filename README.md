@@ -27,4 +27,9 @@
 | oωo                          | 0.11.2  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/owo-lib/files/4749199)                     | [GitHub](https://github.com/wisp-forest/owo-lib)                       |
 | Botarium                     | 2.3.4   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/botarium/files/5486071)                    | [GitHub](https://github.com/terrarium-earth/Common-Storage-Lib)        |
 | Resourceful Lib              | 2.1.29  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/resourceful-lib/files/5659872)             | [GitHub](https://github.com/Team-Resourceful/ResourcefulLib)           |
+
+## Bug fix
+| Name            | Version | Download                                                                                        | Source                                                           |
+| :-------------- | :-----: | :---------------------------------------------------------------------------------------------: | :--------------------------------------------------------------: |
+| ModernFix       | 5.19.4  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/modernfix/files/5676012/)             | [GitHub](https://github.com/embeddedt/ModernFix)                 |
 </details>
