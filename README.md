@@ -50,4 +50,5 @@
 | Krypton              | 0.2.3   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/krypton/files/4577300)                           | [GitHub](https://github.com/astei/krypton)                  |
 | Let Me Despawn       | 1.2.1   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/let-me-despawn/files/5390018)                    | [GitHub](https://github.com/frikinjay/let-me-despawn)       |
 | BadOptimizations     | 2.1.4   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/badoptimizations/files/5430253)                  | [GitHub](https://github.com/ItsThosea/BadOptimizations)     |
+| Ksyxis               | 1.3.2   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ksyxis/files/5419927)                            | [GitHub](https://github.com/VidTu/Ksyxis)                   |
 </details>
