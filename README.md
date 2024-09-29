@@ -40,4 +40,9 @@
 | Connectivity    | 5.8     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/connectivity/files/5728629)           | [GitHub](https://github.com/someaddons/connectivity)             |
 | AntiGhost       | 1.1.5   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/antighost/files/4613757)              | [GitHub](https://github.com/gbl/AntiGhost)                       |
 | Memory Leak Fix | 1.1.5   | [Modrinth](https://modrinth.com/mod/memoryleakfix/version/v1.1.5)                               | [GitHub](https://github.com/fxmorin/memoryLeakFix)               |
+
+## Optimization
+| Name                 | Version | Download                                                                                                   | Source                                                      |
+| :------------------- | :-----: | :--------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------: |
+| Smooth Chunk Save    | 3.6     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save/files/5138126)                 | [GitHub](https://github.com/someaddons/smoothchunksave)     |
 </details>
