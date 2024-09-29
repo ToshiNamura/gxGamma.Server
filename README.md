@@ -17,6 +17,7 @@
 | CoreProtect              | 22.4    | [Modrinth](https://modrinth.com/plugin/coreprotect)                  | [GitHub](https://github.com/PlayPro/CoreProtect)                 |
 | LuckPerms                | 5.4.141 | [LuckPerms.net](https://luckperms.net/)                              | [GitHub](https://github.com/LuckPerms/LuckPerms)                 |
 | LuckPrefix               | 1.2.3   | [Modrinth](https://modrinth.com/plugin/luckprefix)                   | [GitHub](https://github.com/ezTxmMC/LuckPrefix)                  |
+| Multiverse-Core          | 4.3.12  | [Modrinth](https://modrinth.com/plugin/multiverse-core)              | [GitHub](https://github.com/Multiverse/Multiverse-Core)          |
 
 <details>
 <summary>Modifications</summary>

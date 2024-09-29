@@ -30,6 +30,7 @@
 !/plugins/CoreProtect-22.4.jar
 !/plugins/LuckPerms-Bukkit-5.4.141.jar
 !/plugins/LuckPrefix-1.2.3.jar
+!/plugins/multiverse-core-4.3.12.jar
 
 # libraries
 !/libraries/
