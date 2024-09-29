@@ -45,4 +45,5 @@
 | Name                 | Version | Download                                                                                                   | Source                                                      |
 | :------------------- | :-----: | :--------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------: |
 | Smooth Chunk Save    | 3.6     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save/files/5138126)                 | [GitHub](https://github.com/someaddons/smoothchunksave)     |
+| Structure Essentials | 3.4     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric/files/5392624) | [GitHub](https://github.com/someaddons/structureessentials) |
 </details>
