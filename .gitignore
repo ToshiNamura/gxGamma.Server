@@ -31,6 +31,7 @@
 !/plugins/LuckPerms-Bukkit-5.4.141.jar
 !/plugins/LuckPrefix-1.2.3.jar
 !/plugins/multiverse-core-4.3.12.jar
+!/plugins/multiverse-inventories-4.2.6.jar
 
 # libraries
 !/libraries/
