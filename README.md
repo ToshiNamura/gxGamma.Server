@@ -27,6 +27,7 @@
 | oωo                          | 0.11.2  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/owo-lib/files/4749199)                     | [GitHub](https://github.com/wisp-forest/owo-lib)                       |
 | Botarium                     | 2.3.4   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/botarium/files/5486071)                    | [GitHub](https://github.com/terrarium-earth/Common-Storage-Lib)        |
 | Resourceful Lib              | 2.1.29  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/resourceful-lib/files/5659872)             | [GitHub](https://github.com/Team-Resourceful/ResourcefulLib)           |
+| Bookshelf                    | 20.2.13 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/bookshelf/files/5423988)                   | [GitHub](https://github.com/Darkhax-Minecraft/Bookshelf)               |
 
 ## Bug fix
 | Name            | Version | Download                                                                                        | Source                                                           |
