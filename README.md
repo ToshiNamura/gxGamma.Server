@@ -18,4 +18,5 @@
 | Cupboard                     | 2.7     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cupboard/files/5470034)                    | [GitHub](https://github.com/someaddons/cupboard)                       |
 | YetAnotherConfigLib          | 3.5.0   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/yacl/files/5424129)                        | [GitHub](https://github.com/isXander/YetAnotherConfigLib)              |
 | Balm                         | 7.3.9   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/balm-fabric/files/5644969)                 | [GitHub](https://github.com/TwelveIterationMods/Balm)                  |
+| Fabric Language Kotlin       | 2.0.20  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin/files/5733893)      | [GitHub](https://github.com/FabricMC/fabric-language-kotlin)           |
 </details>
