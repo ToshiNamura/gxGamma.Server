@@ -8,6 +8,12 @@
 | Fabric API       | 0.92.2  | [curseforge.com](https://www.curseforge.com/minecraft/mc-mods/fabric-api) | [GitHub](https://github.com/FabricMC/fabric)        |
 | MohistMc Banner  | 722     | [mohistmc.com](https://mohistmc.com/software/banner)                      | [GitHub](https://github.com/MohistMC/Banner)        |
 
+<!-- | Name | Version | [CurseForge]() | [GitHub]() | -->
+## Plugins
+| Name                     | Version | Download                                                             | Source                                                           |
+| :----------------------- | :-----: | :------------------------------------------------------------------: | :--------------------------------------------------------------: |
+| AuthMe                   | 5.6.0   | [Modrinth](https://modrinth.com/plugin/authmerereloaded)             | [GitHub](https://github.com/HaHaWTH/AuthMeReReloaded)            |
+
 <details>
 <summary>Modifications</summary>
 

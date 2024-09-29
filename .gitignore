@@ -23,8 +23,9 @@
 !/fabric-server-launch.jar
 !/server.jar
 
-# bStats
-/plugins/bStats/config.yml
+# plugins
+/plugins/*
+!/plugins/AuthMe-5.6.0.jar
 
 # libraries
 !/libraries/
