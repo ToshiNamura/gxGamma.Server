@@ -7,3 +7,13 @@
 | Fabric Loader    | 0.16.2  | [fabricmc.net](https://fabricmc.net/)                                     | [GitHub](https://github.com/FabricMC/fabric-loader) |
 | Fabric API       | 0.92.2  | [curseforge.com](https://www.curseforge.com/minecraft/mc-mods/fabric-api) | [GitHub](https://github.com/FabricMC/fabric)        |
 | MohistMc Banner  | 722     | [mohistmc.com](https://mohistmc.com/software/banner)                      | [GitHub](https://github.com/MohistMC/Banner)        |
+
+<details>
+<summary>Modifications</summary>
+
+<!-- | Name | Version | [CurseForge]() | [GitHub]() | -->
+## Library
+| Name                         | Version | Download                                                                                             | Source                                                                 |
+| :--------------------------- | :-----: | :--------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------: |
+| Cupboard                     | 2.7     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cupboard/files/5470034)                    | [GitHub](https://github.com/someaddons/cupboard)                       |
+</details>
