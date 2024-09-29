@@ -64,7 +64,6 @@
 | Open Loader              | 19.0.4     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/open-loader/files/5368593)         | [GitHub](https://github.com/Darkhax-Minecraft/Open-Loader)  |
 | Log Begone               | 1.0.8      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/log-begone/files/4582965)          | [GitHub](https://github.com/AzureDoom/Log-Begone)           |
 | Inventory Sorting        | 1.9.0      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting/files/4597704)   | [GitHub](https://github.com/kyrptonaught/Inventory-Sorter)  |
-| WorldEdit                | 7.2.15     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/worldedit/files/4586218)           | [GitHub](https://github.com/enginehub/WorldEdit)            |
 | CraftTweaker             | 14.0.43    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/crafttweaker/files/5648764)        | [GitHub](https://github.com/CraftTweaker/CraftTweaker)      |
 | Chunky                   | 1.3.146    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator/files/5320021) | [GitHub](https://github.com/pop4959/Chunky)                 |
 | Chunky Border            | 1.1.53     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chunky-border/files/4787015)       | [GitHub](https://github.com/pop4959/ChunkyBorder)           |
