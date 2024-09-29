@@ -48,4 +48,5 @@
 | Structure Essentials | 3.4     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric/files/5392624) | [GitHub](https://github.com/someaddons/structureessentials) |
 | Lithium              | 0.11.2  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lithium/files/4765724)                           | [GitHub](https://github.com/CaffeineMC/lithium-fabric)      |
 | Krypton              | 0.2.3   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/krypton/files/4577300)                           | [GitHub](https://github.com/astei/krypton)                  |
+| Let Me Despawn       | 1.2.1   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/let-me-despawn/files/5390018)                    | [GitHub](https://github.com/frikinjay/let-me-despawn)       |
 </details>
