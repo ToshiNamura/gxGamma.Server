@@ -106,4 +106,5 @@
 | Create: Framed                | 1.4.6   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-framed/files/5616316)                      | [GitHub](https://github.com/DakotaPride/create-framed)                             |
 | Create: Dreams & Desires      | 0.2c    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-dreams-desires/files/5303207)              | [GitHub](https://github.com/LopyLuna/Create-Dreams-and-Desires)                    |
 | Create: Structures            | 0.1.1   | [Modrinth](https://modrinth.com/datapack/create-structures/version/0.1.1+mod)                               | [GitHub](https://github.com/FusionSwarly/Create-Structures)                        |
+| Create: Extended Cogwheels    | 2.1.1   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-extended-cogwheels-fabric/files/5229919)   | [GitHub](https://github.com/Rabbitminers/Extended-Cogwheels)                       |
 </details>
