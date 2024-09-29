@@ -21,6 +21,7 @@
 | Multiverse-Inventories   | 4.2.6   | [Modrinth](https://modrinth.com/plugin/multiverse-inventories)       | [GitHub](https://github.com/Multiverse/Multiverse-Inventories)   |
 | Multiverse-NetherPortals | 4.2.3   | [Modrinth](https://modrinth.com/plugin/multiverse-netherportals)     | [GitHub](https://github.com/Multiverse/Multiverse-NetherPortals) |
 | Multiverse-Portals       | 4.2.3   | [Modrinth](https://modrinth.com/plugin/multiverse-portals)           | [GitHub](https://github.com/Multiverse/Multiverse-Portals)       |
+| PlaceholderAPI           | 2.11.6  | [Spigot](https://www.spigotmc.org/resources/placeholderapi.6245/)    | [GitHub](https://github.com/PlaceholderAPI/PlaceholderAPI)       |
 
 <details>
 <summary>Modifications</summary>
