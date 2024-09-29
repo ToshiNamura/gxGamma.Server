@@ -82,4 +82,5 @@
 | Farmer's Delight Refabricated | 2.1.6   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/farmers-delight-refabricated/files/5684645)       | [GitHub](https://github.com/MehVahdJukaar/FarmersDelightRefabricated)              |
 | Expanded Delight              | 0.3.2   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/expanded-delight/files/5708081)                   | [GitHub](https://github.com/ianm1647/expandeddelight)                              |
 | Ocean's Delight               | 1.0.2   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/oceans-delight/files/5230028)                     | No Source                                                                          |
+| Cultural Delights             | 1.0.5   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cultural-delights-fabric/files/5510598)           | [GitHub](https://github.com/mrsterner/Cultural-Delights-Fabric)                    |
 </details>
