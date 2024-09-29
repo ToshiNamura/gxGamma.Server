@@ -113,4 +113,5 @@
 | Name              | Version | Download                                                                              | Source                                                   |
 | :---------------- | :-----: | :-----------------------------------------------------------------------------------: | :------------------------------------------------------: |
 | BetterEnd         | 4.0.11  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/betterend/files/4971487)    | [GitHub](https://github.com/quiqueck/BetterEnd)          |
+| BetterNether      | 9.0.10  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/betternether/files/4971478) | [GitHub](https://github.com/quiqueck/BetterNether)       |
 </details>
