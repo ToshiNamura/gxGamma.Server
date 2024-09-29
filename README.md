@@ -20,6 +20,7 @@
 | Multiverse-Core          | 4.3.12  | [Modrinth](https://modrinth.com/plugin/multiverse-core)              | [GitHub](https://github.com/Multiverse/Multiverse-Core)          |
 | Multiverse-Inventories   | 4.2.6   | [Modrinth](https://modrinth.com/plugin/multiverse-inventories)       | [GitHub](https://github.com/Multiverse/Multiverse-Inventories)   |
 | Multiverse-NetherPortals | 4.2.3   | [Modrinth](https://modrinth.com/plugin/multiverse-netherportals)     | [GitHub](https://github.com/Multiverse/Multiverse-NetherPortals) |
+| Multiverse-Portals       | 4.2.3   | [Modrinth](https://modrinth.com/plugin/multiverse-portals)           | [GitHub](https://github.com/Multiverse/Multiverse-Portals)       |
 
 <details>
 <summary>Modifications</summary>
