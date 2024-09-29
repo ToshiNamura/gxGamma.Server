@@ -64,4 +64,5 @@
 | Log Begone               | 1.0.8      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/log-begone/files/4582965)          | [GitHub](https://github.com/AzureDoom/Log-Begone)           |
 | Inventory Sorting        | 1.9.0      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting/files/4597704)   | [GitHub](https://github.com/kyrptonaught/Inventory-Sorter)  |
 | WorldEdit                | 7.2.15     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/worldedit/files/4586218)           | [GitHub](https://github.com/enginehub/WorldEdit)            |
+| CraftTweaker             | 14.0.43    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/crafttweaker/files/5648764)        | [GitHub](https://github.com/CraftTweaker/CraftTweaker)      |
 </details>
