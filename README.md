@@ -24,6 +24,7 @@
 | PlaceholderAPI           | 2.11.6  | [Spigot](https://www.spigotmc.org/resources/placeholderapi.6245/)    | [GitHub](https://github.com/PlaceholderAPI/PlaceholderAPI)       |
 | ProtocolLib              | 5.2.0   | [Spigot](https://www.spigotmc.org/resources/protocollib.1997/)       | [GitHub](https://github.com/dmulloy2/ProtocolLib/)               |
 | StayPut                  | 2.0.0   | [Spigot](https://www.spigotmc.org/resources/stayput-remixed.69564/)  | [GitHub](https://github.com/pmdevita/StayPut/tree/2.0.0)         |
+| TAB                      | 4.1.8   | [Modrinth](https://modrinth.com/plugin/tab-was-taken)                | [GitHub](https://github.com/NEZNAMY/TAB)                         |
 
 <details>
 <summary>Modifications</summary>
