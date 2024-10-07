@@ -119,6 +119,7 @@
 !/config/cupboard.json
 !/config/debugify.json
 !/config/deeperdarker.json5
+!/config/dsbg-server.toml
 # plugins
 !/plugins/
 /plugins/*
