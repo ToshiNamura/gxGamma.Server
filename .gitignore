@@ -121,6 +121,9 @@
 !/config/deeperdarker.json5
 !/config/dsbg-server.toml
 !/config/ends_delight-common.toml
+!/config/estrogen-client.toml
+!/config/estrogen-common.toml
+!/config/estrogen-server.toml
 # plugins
 !/plugins/
 /plugins/*
