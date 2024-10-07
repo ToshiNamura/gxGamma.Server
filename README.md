@@ -21,21 +21,22 @@ java -Xms1024M -jar -Dfile.encoding=UTF-8 fabric-server-launch.jar --nogui --uni
 <details> <summary>Modifications</summary>
 <details> <summary>Library</summary>
 
-| Name                         | Version | Download                                                                                             | Source                                                                 |
-| :--------------------------- | :-----: | :--------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------: |
-| Cupboard                     | 2.7     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cupboard/files/5470034)                    | [GitHub](https://github.com/someaddons/cupboard)                       |
-| YetAnotherConfigLib          | 3.5.0   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/yacl/files/5424129)                        | [GitHub](https://github.com/isXander/YetAnotherConfigLib)              |
-| Balm                         | 7.3.9   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/balm-fabric/files/5644969)                 | [GitHub](https://github.com/TwelveIterationMods/Balm)                  |
-| Fabric Language Kotlin       | 2.0.20  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin/files/5733893)      | [GitHub](https://github.com/FabricMC/fabric-language-kotlin)           |
-| SuperMartijn642's Core Lib   | 1.1.17a | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib/files/5668908)   | [GitHub](https://github.com/SuperMartijn642/SuperMartijn642sCoreLib)   |
-| SuperMartijn642's Config Lib | 1.1.8a  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib/files/4785838) | [GitHub](https://github.com/SuperMartijn642/SuperMartijn642sConfigLib) |
-| Trinkets                     | 3.7.2   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/trinkets/files/5173501)                    | [GitHub](https://github.com/emilyploszaj/trinkets)                     |
-| Fusion                       | 1.1.1   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures/files/5129312)   | [GitHub](https://github.com/SuperMartijn642/Fusion)                    |
-| BCLib                        | 3.0.14  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/bclib/files/4971470)                       | [GitHub](https://github.com/quiqueck/BCLib)                            |
-| oωo                          | 0.11.2  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/owo-lib/files/4749199)                     | [GitHub](https://github.com/wisp-forest/owo-lib)                       |
-| Botarium                     | 2.3.4   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/botarium/files/5486071)                    | [GitHub](https://github.com/terrarium-earth/Common-Storage-Lib)        |
-| Resourceful Lib              | 2.1.29  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/resourceful-lib/files/5659872)             | [GitHub](https://github.com/Team-Resourceful/ResourcefulLib)           |
-| Bookshelf                    | 20.2.13 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/bookshelf/files/5423988)                   | [GitHub](https://github.com/Darkhax-Minecraft/Bookshelf)               |
+| Name                         | Version  | Download                                                                                             | Source                                                                 |
+| :--------------------------- | :------: | :--------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------: |
+| Cupboard                     | 2.7      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cupboard/files/5470034)                    | [GitHub](https://github.com/someaddons/cupboard)                       |
+| YetAnotherConfigLib          | 3.5.0    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/yacl/files/5424129)                        | [GitHub](https://github.com/isXander/YetAnotherConfigLib)              |
+| Balm                         | 7.3.9    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/balm-fabric/files/5644969)                 | [GitHub](https://github.com/TwelveIterationMods/Balm)                  |
+| Fabric Language Kotlin       | 2.0.20   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin/files/5733893)      | [GitHub](https://github.com/FabricMC/fabric-language-kotlin)           |
+| SuperMartijn642's Core Lib   | 1.1.17a  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib/files/5668908)   | [GitHub](https://github.com/SuperMartijn642/SuperMartijn642sCoreLib)   |
+| SuperMartijn642's Config Lib | 1.1.8a   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib/files/4785838) | [GitHub](https://github.com/SuperMartijn642/SuperMartijn642sConfigLib) |
+| Trinkets                     | 3.7.2    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/trinkets/files/5173501)                    | [GitHub](https://github.com/emilyploszaj/trinkets)                     |
+| Fusion                       | 1.1.1    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures/files/5129312)   | [GitHub](https://github.com/SuperMartijn642/Fusion)                    |
+| BCLib                        | 3.0.14   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/bclib/files/4971470)                       | [GitHub](https://github.com/quiqueck/BCLib)                            |
+| oωo                          | 0.11.2   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/owo-lib/files/4749199)                     | [GitHub](https://github.com/wisp-forest/owo-lib)                       |
+| Botarium                     | 2.3.4    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/botarium/files/5486071)                    | [GitHub](https://github.com/terrarium-earth/Common-Storage-Lib)        |
+| Resourceful Lib              | 2.1.29   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/resourceful-lib/files/5659872)             | [GitHub](https://github.com/Team-Resourceful/ResourcefulLib)           |
+| Bookshelf                    | 20.2.13  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/bookshelf/files/5423988)                   | [GitHub](https://github.com/Darkhax-Minecraft/Bookshelf)               |
+| Cloth Config API             | 11.1.136 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cloth-config/files/5729104)                | [GitHub](https://github.com/shedaniel/cloth-config)                    |
 </details>
 <details> <summary>Bug fix</summary>
 
