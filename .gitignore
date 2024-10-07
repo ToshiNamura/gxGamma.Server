@@ -132,6 +132,7 @@
 !/config/limitedchunks.json
 !/config/logbegone.toml
 !/config/magna.json
+!/config/patchouli.json5
 # plugins
 !/plugins/
 /plugins/*
