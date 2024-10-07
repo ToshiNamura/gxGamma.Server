@@ -120,6 +120,7 @@
 !/config/debugify.json
 !/config/deeperdarker.json5
 !/config/dsbg-server.toml
+!/config/ends_delight-common.toml
 # plugins
 !/plugins/
 /plugins/*
