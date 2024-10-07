@@ -26,6 +26,12 @@
 !/config/
 /config/*
 
+## config/ae2
+!/config/ae2/
+/config/ae2/*
+!/config/ae2/client.json
+!/config/ae2/common.json
+
 # plugins
 !/plugins/
 /plugins/*
