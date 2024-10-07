@@ -41,6 +41,17 @@
 !/config/bclib/generator.json
 !/config/bclib/main.json
 !/config/bclib/server.json
+
+## config/betterend
+!/config/betterend/
+/config/betterend/*
+!/config/betterend/blocks.json
+!/config/betterend/enchantments.json
+!/config/betterend/entities.json
+!/config/betterend/generator.json
+!/config/betterend/items.json
+!/config/betterend/portals.json
+
 # plugins
 !/plugins/
 /plugins/*
