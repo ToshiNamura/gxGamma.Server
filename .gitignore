@@ -72,6 +72,17 @@
 /config/chunkyborder/*
 !/config/chunkyborder/config.json
 
+## config/indrev
+!/config/indrev/
+/config/indrev/*
+!/config/indrev/cables.json
+!/config/indrev/generators.json
+!/config/indrev/hud.json
+!/config/indrev/machines.json
+!/config/indrev/mining_rig_config.json
+!/config/indrev/oregen.json
+!/config/indrev/upgrades.json
+
 # plugins
 !/plugins/
 /plugins/*
