@@ -115,6 +115,7 @@
 !/config/create_dd-client.toml
 !/config/create_dd-common.toml
 !/config/create_dd-server.toml
+!/config/create_enchantment_industry-server.toml
 # plugins
 !/plugins/
 /plugins/*
