@@ -198,6 +198,11 @@
 /plugins/Multiverse-Inventories/*
 !/plugins/Multiverse-Inventories/config.yml
 
+## plugins/Multiverse-NetherPortals
+!/plugins/Multiverse-NetherPortals/
+/plugins/Multiverse-NetherPortals/*
+!/plugins/Multiverse-NetherPortals/config.yml
+
 # libraries
 !/libraries/
 /libraries/*
