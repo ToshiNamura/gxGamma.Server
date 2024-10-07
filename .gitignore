@@ -23,7 +23,7 @@
 !/server.jar
 
 # config
-!config/
+!/config/
 /config/*
 
 # plugins
