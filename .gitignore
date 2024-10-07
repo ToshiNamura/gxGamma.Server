@@ -133,6 +133,9 @@
 !/config/logbegone.toml
 !/config/magna.json
 !/config/patchouli.json5
+!/config/railways-client.toml
+!/config/railways-common.toml
+!/config/railways-server.toml
 # plugins
 !/plugins/
 /plugins/*
