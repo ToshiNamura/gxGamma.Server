@@ -111,6 +111,7 @@
 !/config/create-client.toml
 !/config/create-common.toml
 !/config/create-server.toml
+!/config/createaddition-common.toml
 # plugins
 !/plugins/
 /plugins/*
