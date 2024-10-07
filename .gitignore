@@ -106,6 +106,7 @@
 
 ## config/
 !/config/attributefix.json
+!/config/botania-common.json5
 # plugins
 !/plugins/
 /plugins/*
