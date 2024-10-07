@@ -83,6 +83,11 @@
 !/config/indrev/oregen.json
 !/config/indrev/upgrades.json
 
+## config/inventorysorter
+!/config/inventorysorter/
+/config/inventorysorter/*
+!/config/inventorysorter/blacklist.json5
+
 # plugins
 !/plugins/
 /plugins/*
