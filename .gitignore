@@ -94,6 +94,11 @@
 !/config/jade/server-plugin-overrides.json
 !/config/jade/sort-order.json
 
+## config/openloader
+!/config/openloader/
+/config/openloader/*
+!/config/openloader/advanced_options.json
+
 # plugins
 !/plugins/
 /plugins/*
