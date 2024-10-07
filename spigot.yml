@@ -131,6 +131,8 @@ world-settings:
       tile: 8
       entity: 16
     thunder-chance: 100000
+  worldeditregentempworld:
+    verbose: false
 messages:
   restart: Server is restarting
   whitelist: You are not whitelisted on this server!
