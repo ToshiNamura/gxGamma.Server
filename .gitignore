@@ -183,6 +183,11 @@
 /plugins/LuckPerms/*
 !/plugins/LuckPerms/config.yml
 
+## plugins/LuckPrefix
+!/plugins/LuckPrefix/
+/plugins/LuckPrefix/*
+!/plugins/LuckPrefix/config.yml
+
 # libraries
 !/libraries/
 /libraries/*
