@@ -118,6 +118,7 @@
 !/config/create_enchantment_industry-server.toml
 !/config/cupboard.json
 !/config/debugify.json
+!/config/deeperdarker.json5
 # plugins
 !/plugins/
 /plugins/*
