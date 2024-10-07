@@ -13,7 +13,6 @@
 # server
 !/banner-config/
 !/mods/
-!/plugins/
 !/bukkit.yml
 !/commands.yml
 !/help.yml
@@ -23,7 +22,12 @@
 !/fabric-server-launch.jar
 !/server.jar
 
+# config
+!config/
+/config/*
+
 # plugins
+!/plugins/
 /plugins/*
 !/plugins/AuthMe-5.6.0.jar
 !/plugins/BetterMessages-3.3.2.jar
