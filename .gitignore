@@ -130,6 +130,7 @@
 !/config/forgeconfigapiport.toml
 !/config/letmedespawn.json
 !/config/limitedchunks.json
+!/config/logbegone.toml
 # plugins
 !/plugins/
 /plugins/*
