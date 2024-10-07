@@ -125,6 +125,7 @@
 !/config/estrogen-common.toml
 !/config/estrogen-server.toml
 !/config/expanded-delight.json
+!/config/extendedgears-common.toml
 # plugins
 !/plugins/
 /plugins/*
