@@ -73,18 +73,19 @@ java -Xms1024M -jar -Dfile.encoding=UTF-8 fabric-server-launch.jar --nogui --uni
 </details>
 <details> <summary>Utility</summary>
 
-| Name                     | Version    | Download                                                                                     | Source                                                      |
-| :----------------------- | :--------: | :------------------------------------------------------------------------------------------: | :---------------------------------------------------------: |
-| Spark                    | 1.10.53    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/spark/files/4738953)               | [GitHub](https://github.com/lucko/spark)                    |
-| Open Loader              | 19.0.4     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/open-loader/files/5368593)         | [GitHub](https://github.com/Darkhax-Minecraft/Open-Loader)  |
-| Log Begone               | 1.0.8      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/log-begone/files/4582965)          | [GitHub](https://github.com/AzureDoom/Log-Begone)           |
-| Inventory Sorting        | 1.9.0      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting/files/4597704)   | [GitHub](https://github.com/kyrptonaught/Inventory-Sorter)  |
-| CraftTweaker             | 14.0.43    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/crafttweaker/files/5648764)        | [GitHub](https://github.com/CraftTweaker/CraftTweaker)      |
-| Chunky                   | 1.3.146    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator/files/5320021) | [GitHub](https://github.com/pop4959/Chunky)                 |
-| Chunky Border            | 1.1.53     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chunky-border/files/4787015)       | [GitHub](https://github.com/pop4959/ChunkyBorder)           |
-| Just Enough Items        | 15.16.2.73 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jei/files/5683453)                 | [GitHub](https://github.com/mezz/JustEnoughItems)           |
-| Jade                     | 11.11.0    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jade/files/5666690)                | [GitHub](https://github.com/Snownee/Jade)                   |
-| Jade Addons              | 5.3.1      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jade-addons-fabric/files/5592658)  | [GitHub](https://github.com/Snownee/JadeAddonsFabric)       |
+| Name                     | Version    | Download                                                                                             | Source                                                                 |
+| :----------------------- | :--------: | :--------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------: |
+| Spark                    | 1.10.53    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/spark/files/4738953)                       | [GitHub](https://github.com/lucko/spark)                               |
+| Open Loader              | 19.0.4     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/open-loader/files/5368593)                 | [GitHub](https://github.com/Darkhax-Minecraft/Open-Loader)             |
+| Log Begone               | 1.0.8      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/log-begone/files/4582965)                  | [GitHub](https://github.com/AzureDoom/Log-Begone)                      |
+| Inventory Sorting        | 1.9.0      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting/files/4597704)           | [GitHub](https://github.com/kyrptonaught/Inventory-Sorter)             |
+| CraftTweaker             | 14.0.43    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/crafttweaker/files/5648764)                | [GitHub](https://github.com/CraftTweaker/CraftTweaker)                 |
+| Chunky                   | 1.3.146    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator/files/5320021)         | [GitHub](https://github.com/pop4959/Chunky)                            |
+| Chunky Border            | 1.1.53     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chunky-border/files/4787015)               | [GitHub](https://github.com/pop4959/ChunkyBorder)                      |
+| Just Enough Items        | 15.16.2.73 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jei/files/5683453)                         | [GitHub](https://github.com/mezz/JustEnoughItems)                      |
+| Jade                     | 11.11.0    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jade/files/5666690)                        | [GitHub](https://github.com/Snownee/Jade)                              |
+| Jade Addons              | 5.3.1      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jade-addons-fabric/files/5592658)          | [GitHub](https://github.com/Snownee/JadeAddonsFabric)                  |
+| Restart Server           | 1.2.0      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/restart-server/files/4614407/dependencies) | [GitHub](https://github.com/steves-underwater-paradise/restart-server) |
 </details>
 <details> <summary>Game Mechanics</summary>
 
