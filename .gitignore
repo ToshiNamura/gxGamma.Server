@@ -238,6 +238,11 @@
 /plugins/WorldEdit/*
 !/plugins/WorldEdit/config.yml
 
+## plugins/WorldGuard
+!/plugins/WorldGuard/
+/plugins/WorldGuard/*
+!/plugins/WorldGuard/config.yml
+
 # libraries
 !/libraries/
 /libraries/*
