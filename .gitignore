@@ -223,6 +223,11 @@
 /plugins/StayPut/*
 !/plugins/StayPut/config.yml
 
+## plugins/TAB
+!/plugins/TAB/
+/plugins/TAB/*
+!/plugins/TAB/config.yml
+
 # libraries
 !/libraries/
 /libraries/*
