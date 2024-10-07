@@ -129,6 +129,7 @@
 !/config/farmersdelight-common.toml
 !/config/forgeconfigapiport.toml
 !/config/letmedespawn.json
+!/config/limitedchunks.json
 # plugins
 !/plugins/
 /plugins/*
