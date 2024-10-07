@@ -53,22 +53,23 @@ java -Xms1024M -jar -Dfile.encoding=UTF-8 fabric-server-launch.jar --nogui --uni
 </details>
 <details> <summary>Optimization</summary>
 
-| Name                 | Version | Download                                                                                                   | Source                                                      |
-| :------------------- | :-----: | :--------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------: |
-| Smooth Chunk Save    | 3.6     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save/files/5138126)                 | [GitHub](https://github.com/someaddons/smoothchunksave)     |
-| Structure Essentials | 3.4     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric/files/5392624) | [GitHub](https://github.com/someaddons/structureessentials) |
-| Lithium              | 0.11.2  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lithium/files/4765724)                           | [GitHub](https://github.com/CaffeineMC/lithium-fabric)      |
-| Krypton              | 0.2.3   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/krypton/files/4577300)                           | [GitHub](https://github.com/astei/krypton)                  |
-| Let Me Despawn       | 1.2.1   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/let-me-despawn/files/5390018)                    | [GitHub](https://github.com/frikinjay/let-me-despawn)       |
-| BadOptimizations     | 2.1.4   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/badoptimizations/files/5430253)                  | [GitHub](https://github.com/ItsThosea/BadOptimizations)     |
-| Ksyxis               | 1.3.2   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ksyxis/files/5419927)                            | [GitHub](https://github.com/VidTu/Ksyxis)                   |
-| Client Crafting      | 1.8     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/client-crafting/files/5097011)                   | [GitHub](https://github.com/someaddons/clientcrafting)      |
-| Noisium              | 2.3.0   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/noisium/files/5650500)                           | [GitHub](https://github.com/Steveplays28/noisium)           |
-| Recipe Essentials    | 3.6     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/recipe-essentials-forge-fabric/files/5581358)    | [GitHub](https://github.com/someaddons/recipeessentials)    |
-| LazyDFU              | 0.1.3   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lazydfu/files/3821870)                           | [GitHub](https://github.com/astei/lazydfu)                  |
-| Better chunk loading | 4.5     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-chunk-loading-forge-fabric/files/5747087) | [GitHub](https://github.com/someaddons/betterchunkloading)  |
-| Chunk Sending        | 2.8     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chunk-sending-forge-fabric/files/4894794)        | [GitHub](https://github.com/someaddons/chunksending)        |
-| Limited Chunkloading | 4.1     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/limited-chunkloading/files/5387593)              | [GitHub](https://github.com/someaddons/limitedchunks)       |
+| Name                  | Version | Download                                                                                                    | Source                                                      |
+| :-------------------- | :-----: | :---------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------: |
+| Smooth Chunk Save     | 3.6     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save/files/5138126)                  | [GitHub](https://github.com/someaddons/smoothchunksave)     |
+| Structure Essentials  | 3.4     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric/files/5392624)  | [GitHub](https://github.com/someaddons/structureessentials) |
+| Lithium               | 0.11.2  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lithium/files/4765724)                            | [GitHub](https://github.com/CaffeineMC/lithium-fabric)      |
+| Krypton               | 0.2.3   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/krypton/files/4577300)                            | [GitHub](https://github.com/astei/krypton)                  |
+| Let Me Despawn        | 1.2.1   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/let-me-despawn/files/5390018)                     | [GitHub](https://github.com/frikinjay/let-me-despawn)       |
+| BadOptimizations      | 2.1.4   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/badoptimizations/files/5430253)                   | [GitHub](https://github.com/ItsThosea/BadOptimizations)     |
+| Ksyxis                | 1.3.2   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ksyxis/files/5419927)                             | [GitHub](https://github.com/VidTu/Ksyxis)                   |
+| Client Crafting       | 1.8     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/client-crafting/files/5097011)                    | [GitHub](https://github.com/someaddons/clientcrafting)      |
+| Noisium               | 2.3.0   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/noisium/files/5650500)                            | [GitHub](https://github.com/Steveplays28/noisium)           |
+| Recipe Essentials     | 3.6     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/recipe-essentials-forge-fabric/files/5581358)     | [GitHub](https://github.com/someaddons/recipeessentials)    |
+| LazyDFU               | 0.1.3   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lazydfu/files/3821870)                            | [GitHub](https://github.com/astei/lazydfu)                  |
+| Better chunk loading  | 4.5     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-chunk-loading-forge-fabric/files/5747087)  | [GitHub](https://github.com/someaddons/betterchunkloading)  |
+| Chunk Sending         | 2.8     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chunk-sending-forge-fabric/files/4894794)         | [GitHub](https://github.com/someaddons/chunksending)        |
+| Limited Chunkloading  | 4.1     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/limited-chunkloading/files/5387593)               | [GitHub](https://github.com/someaddons/limitedchunks)       |
+| Fast Async World Save | 1.9     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fast-async-world-save-forge-fabric/files/5212486) | [GitHub](https://github.com/someaddons/FastAsyncWorldSave)  |
 </details>
 <details> <summary>Utility</summary>
 
