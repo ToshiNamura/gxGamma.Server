@@ -131,6 +131,7 @@
 !/config/letmedespawn.json
 !/config/limitedchunks.json
 !/config/logbegone.toml
+!/config/magna.json
 # plugins
 !/plugins/
 /plugins/*
