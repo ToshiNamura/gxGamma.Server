@@ -228,6 +228,11 @@
 /plugins/TAB/*
 !/plugins/TAB/config.yml
 
+## plugins/VoidTeleporter
+!/plugins/VoidTeleporter/
+/plugins/VoidTeleporter/*
+!/plugins/VoidTeleporter/config.yml
+
 # libraries
 !/libraries/
 /libraries/*
