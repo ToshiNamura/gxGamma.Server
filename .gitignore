@@ -112,6 +112,9 @@
 !/config/create-common.toml
 !/config/create-server.toml
 !/config/createaddition-common.toml
+!/config/create_dd-client.toml
+!/config/create_dd-common.toml
+!/config/create_dd-server.toml
 # plugins
 !/plugins/
 /plugins/*
