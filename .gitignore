@@ -188,6 +188,11 @@
 /plugins/LuckPrefix/*
 !/plugins/LuckPrefix/config.yml
 
+## plugins/Multiverse-Core
+!/plugins/Multiverse-Core/
+/plugins/Multiverse-Core/*
+!/plugins/Multiverse-Core/config.yml
+
 # libraries
 !/libraries/
 /libraries/*
