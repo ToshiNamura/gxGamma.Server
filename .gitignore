@@ -139,6 +139,7 @@
 !/config/recipeessentials.json
 !/config/restart-server.json5
 !/config/smoothchunk.json
+!/config/structureessentials.json
 # plugins
 !/plugins/
 /plugins/*
