@@ -67,6 +67,7 @@ java -Xms1024M -jar -Dfile.encoding=UTF-8 fabric-server-launch.jar --nogui --uni
 | Recipe Essentials    | 3.6     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/recipe-essentials-forge-fabric/files/5581358)    | [GitHub](https://github.com/someaddons/recipeessentials)    |
 | LazyDFU              | 0.1.3   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lazydfu/files/3821870)                           | [GitHub](https://github.com/astei/lazydfu)                  |
 | Better chunk loading | 4.5     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-chunk-loading-forge-fabric/files/5747087) | [GitHub](https://github.com/someaddons/betterchunkloading)  |
+| Chunk Sending        | 2.8     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chunk-sending-forge-fabric/files/4894794)        | [GitHub](https://github.com/someaddons/chunksending)        |
 </details>
 <details> <summary>Utility</summary>
 
