@@ -208,6 +208,11 @@
 /plugins/Multiverse-Portals/*
 !/plugins/Multiverse-Portals/config.yml
 
+## plugins/PlaceholderAPI
+!/plugins/PlaceholderAPI/
+/plugins/PlaceholderAPI/*
+!/plugins/PlaceholderAPI/config.yml
+
 # libraries
 !/libraries/
 /libraries/*
