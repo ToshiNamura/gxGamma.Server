@@ -32,6 +32,15 @@
 !/config/ae2/client.json
 !/config/ae2/common.json
 
+## config/bclib
+!/config/bclib/
+/config/bclib/*
+!/config/bclib/biomes.json
+!/config/bclib/cache.json
+!/config/bclib/client.json
+!/config/bclib/generator.json
+!/config/bclib/main.json
+!/config/bclib/server.json
 # plugins
 !/plugins/
 /plugins/*
