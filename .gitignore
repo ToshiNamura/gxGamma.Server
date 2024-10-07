@@ -193,6 +193,11 @@
 /plugins/Multiverse-Core/*
 !/plugins/Multiverse-Core/config.yml
 
+## plugins/Multiverse-Inventories
+!/plugins/Multiverse-Inventories/
+/plugins/Multiverse-Inventories/*
+!/plugins/Multiverse-Inventories/config.yml
+
 # libraries
 !/libraries/
 /libraries/*
