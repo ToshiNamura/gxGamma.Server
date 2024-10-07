@@ -68,6 +68,7 @@ java -Xms1024M -jar -Dfile.encoding=UTF-8 fabric-server-launch.jar --nogui --uni
 | LazyDFU              | 0.1.3   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lazydfu/files/3821870)                           | [GitHub](https://github.com/astei/lazydfu)                  |
 | Better chunk loading | 4.5     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-chunk-loading-forge-fabric/files/5747087) | [GitHub](https://github.com/someaddons/betterchunkloading)  |
 | Chunk Sending        | 2.8     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chunk-sending-forge-fabric/files/4894794)        | [GitHub](https://github.com/someaddons/chunksending)        |
+| Limited Chunkloading | 4.1     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/limited-chunkloading/files/5387593)              | [GitHub](https://github.com/someaddons/limitedchunks)       |
 </details>
 <details> <summary>Utility</summary>
 
