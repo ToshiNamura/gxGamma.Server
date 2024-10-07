@@ -127,6 +127,7 @@
 !/config/expanded-delight.json
 !/config/extendedgears-common.toml
 !/config/farmersdelight-common.toml
+!/config/forgeconfigapiport.toml
 # plugins
 !/plugins/
 /plugins/*
