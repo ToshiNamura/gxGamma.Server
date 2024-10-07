@@ -104,6 +104,8 @@
 /config/spark/*
 !/config/spark/config.json
 
+## config/
+!/config/attributefix.json
 # plugins
 !/plugins/
 /plugins/*
