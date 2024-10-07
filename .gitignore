@@ -136,6 +136,7 @@
 !/config/railways-client.toml
 !/config/railways-common.toml
 !/config/railways-server.toml
+!/config/recipeessentials.json
 # plugins
 !/plugins/
 /plugins/*
