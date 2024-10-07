@@ -117,6 +117,7 @@
 !/config/create_dd-server.toml
 !/config/create_enchantment_industry-server.toml
 !/config/cupboard.json
+!/config/debugify.json
 # plugins
 !/plugins/
 /plugins/*
