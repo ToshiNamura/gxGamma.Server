@@ -178,6 +178,11 @@
 /plugins/CoreProtect/*
 !/plugins/CoreProtect/config.yml
 
+## plugins/LuckPerms
+!/plugins/LuckPerms/
+/plugins/LuckPerms/*
+!/plugins/LuckPerms/config.yml
+
 # libraries
 !/libraries/
 /libraries/*
