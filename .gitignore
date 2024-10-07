@@ -213,6 +213,11 @@
 /plugins/PlaceholderAPI/*
 !/plugins/PlaceholderAPI/config.yml
 
+## plugins/ProtocolLib
+!/plugins/ProtocolLib/
+/plugins/ProtocolLib/*
+!/plugins/ProtocolLib/config.yml
+
 # libraries
 !/libraries/
 /libraries/*
