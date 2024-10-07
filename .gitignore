@@ -218,6 +218,11 @@
 /plugins/ProtocolLib/*
 !/plugins/ProtocolLib/config.yml
 
+## plugins/StayPut
+!/plugins/StayPut/
+/plugins/StayPut/*
+!/plugins/StayPut/config.yml
+
 # libraries
 !/libraries/
 /libraries/*
