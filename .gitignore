@@ -233,6 +233,11 @@
 /plugins/VoidTeleporter/*
 !/plugins/VoidTeleporter/config.yml
 
+## plugins/WorldEdit
+!/plugins/WorldEdit/
+/plugins/WorldEdit/*
+!/plugins/WorldEdit/config.yml
+
 # libraries
 !/libraries/
 /libraries/*
