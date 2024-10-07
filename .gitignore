@@ -108,6 +108,9 @@
 !/config/attributefix.json
 !/config/botania-common.json5
 !/config/connectivity.json
+!/config/create-client.toml
+!/config/create-common.toml
+!/config/create-server.toml
 # plugins
 !/plugins/
 /plugins/*
