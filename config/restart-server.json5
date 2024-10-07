@@ -1,0 +1,64 @@
+{
+	/* Set to true to run an executable restart script (such as .bat files).
+	   DEFAULT: true
+	*/
+	"runRestartScript": true,
+	/* The executable restart script that should run.
+	   DIRECTORY: if using relative paths, starts at the server root directory (/)
+	   DEFAULT: start.bat
+	*/
+	"restartScriptPath": "start.bat",
+	/* Set to true to run the executable restart script in a new terminal window.
+	   DEFAULT: true
+	*/
+	"openInTerminal": true,
+	/* The command that is used to open the new terminal window.
+	   FORMAT: terminalStartCommand %command%
+	   DEFAULT: cmd /c start
+	*/
+	"terminalStartCommand": "cmd /c start",
+	/* Set to true to stop the server when running the executable restart script.
+	   DEFAULT: true
+	*/
+	"stopServer": true,
+	/* Set to true to send a restart message in chat.
+	   DEFAULT: true
+	*/
+	"sendRestartMessage": true,
+	/* Set to true to send a restart message in the actionbar instead of in chat.
+	   DEFAULT: false
+	*/
+	"sendRestartMessageInActionbar": false,
+	/* The restart message that will be sent in chat or in the actionbar.
+	   DEFAULT: Restarting server...
+	*/
+	"restartMessage": "Restarting server...",
+	/* The restart failed message that will be sent in chat or in the actionbar.
+	   DEFAULT: Server restart failed.
+	*/
+	"restartFailedMessage": "Server restart failed.",
+	/* The interval in which the server will restart.
+	   Set to 0 or less to disable.
+	   UNIT: seconds
+	   DEFAULT: 0
+	*/
+	"restartInterval": 0,
+	/* The warning message before the server restart.
+	   DEFAULT: Restarting server in %d minute(s)...
+	*/
+	"restartWarningMessage": "Restarting server in %d minute(s)...",
+	/* The amount of times to show the warning message, one per minute.
+	   Set to 0 or less to disable.
+	   DEFAULT: 5
+	*/
+	"restartWarningCount": 5,
+	/* Set to true to only restart if no players have been online for a specified amount of time.
+	   DEFAULT: false
+	*/
+	"restartIfNoPlayersHaveBeenOnline": false,
+	/* The specified amount of time to wait after all players have disconnected to restart.
+	   UNIT: seconds
+	   DEFAULT: 7200
+	*/
+	"noPlayersWaitTime": 7200
+}
