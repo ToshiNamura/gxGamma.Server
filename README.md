@@ -84,6 +84,7 @@ java -Xms1024M -jar -Dfile.encoding=UTF-8 fabric-server-launch.jar --nogui --uni
 | Just Enough Items        | 15.16.2.73 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jei/files/5683453)                 | [GitHub](https://github.com/mezz/JustEnoughItems)           |
 | Jade                     | 11.11.0    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jade/files/5666690)                | [GitHub](https://github.com/Snownee/Jade)                   |
 | Jade Addons              | 5.3.1      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jade-addons-fabric/files/5592658)  | [GitHub](https://github.com/Snownee/JadeAddonsFabric)       |
+| ServerCore               | 1.5.1      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/servercore/files/5288512)          | [GitHub](https://github.com/Wesley1808/ServerCore)          |
 </details>
 <details> <summary>Game Mechanics</summary>
 
