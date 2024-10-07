@@ -88,6 +88,12 @@
 /config/inventorysorter/*
 !/config/inventorysorter/blacklist.json5
 
+## config/jade
+!/config/jade/
+/config/jade/*
+!/config/jade/server-plugin-overrides.json
+!/config/jade/sort-order.json
+
 # plugins
 !/plugins/
 /plugins/*
