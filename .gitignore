@@ -67,6 +67,11 @@
 /config/chunky/*
 !/config/chunky/config.json
 
+## config/chunkyborder
+!/config/chunkyborder/
+/config/chunkyborder/*
+!/config/chunkyborder/config.json
+
 # plugins
 !/plugins/
 /plugins/*
