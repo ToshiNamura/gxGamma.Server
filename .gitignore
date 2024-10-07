@@ -173,6 +173,11 @@
 /plugins/BetterMessages/*
 !/plugins/BetterMessages/config.yml
 
+## plugins/CoreProtect
+!/plugins/CoreProtect/
+/plugins/CoreProtect/*
+!/plugins/CoreProtect/config.yml
+
 # libraries
 !/libraries/
 /libraries/*
