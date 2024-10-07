@@ -163,6 +163,11 @@
 !/plugins/worldedit-bukkit-7.3.1.jar
 !/plugins/worldguard-bukkit-7.0.9-dist.jar
 
+## plugins/AuthMe
+!/plugins/AuthMe/
+/plugins/AuthMe/*
+!/plugins/AuthMe/config.yml
+
 # libraries
 !/libraries/
 /libraries/*
