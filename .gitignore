@@ -203,6 +203,11 @@
 /plugins/Multiverse-NetherPortals/*
 !/plugins/Multiverse-NetherPortals/config.yml
 
+## plugins/Multiverse-Portals
+!/plugins/Multiverse-Portals/
+/plugins/Multiverse-Portals/*
+!/plugins/Multiverse-Portals/config.yml
+
 # libraries
 !/libraries/
 /libraries/*
