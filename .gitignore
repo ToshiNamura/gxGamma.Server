@@ -99,6 +99,11 @@
 /config/openloader/*
 !/config/openloader/advanced_options.json
 
+## config/spark
+!/config/spark/
+/config/spark/*
+!/config/spark/config.json
+
 # plugins
 !/plugins/
 /plugins/*
