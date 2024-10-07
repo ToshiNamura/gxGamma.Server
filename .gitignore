@@ -140,6 +140,8 @@
 !/config/restart-server.json5
 !/config/smoothchunk.json
 !/config/structureessentials.json
+!/config/ubesdelight.json
+
 # plugins
 !/plugins/
 /plugins/*
