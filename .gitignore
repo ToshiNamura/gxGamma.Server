@@ -138,6 +138,7 @@
 !/config/railways-server.toml
 !/config/recipeessentials.json
 !/config/restart-server.json5
+!/config/smoothchunk.json
 # plugins
 !/plugins/
 /plugins/*
