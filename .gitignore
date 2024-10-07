@@ -168,6 +168,11 @@
 /plugins/AuthMe/*
 !/plugins/AuthMe/config.yml
 
+## plugins/BetterMessages
+!/plugins/BetterMessages/
+/plugins/BetterMessages/*
+!/plugins/BetterMessages/config.yml
+
 # libraries
 !/libraries/
 /libraries/*
