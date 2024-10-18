@@ -1,8 +1,14 @@
 ## Standart gitignore configuration file.
 ## Copyright (c) 2024, Toshi Namura
 
-### Visual Studio db
-/.vs
+# Add to gitignore all files.
+/*
 
-### .gitattributes
-/.gitattributes
+# git exceptions
+!/.git/
+!/.gitignore
+!/LICENSE.txt
+!/README.md
+
+# Client
+!/mods/
